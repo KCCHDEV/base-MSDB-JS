@@ -15,9 +15,9 @@ yarn i fs path
 ## Requirement for MSDB and Manager
 
 ```bash
-npm i --save fs path
+npm i --save fs path readline
 OR
-pnpm i --save fs path
+pnpm i --save fs path readline
 OR
 bun i fs path readline
 OR 
