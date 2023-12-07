@@ -6,5 +6,13 @@
       "age": 25,
       "email": "john@example.com"
     }
+  },
+  "chwol1fxyfpjlqc361ohc": {
+    "id": "chwol1fxyfpjlqc361ohc",
+    "value": {
+      "name": "John Doe",
+      "age": 25,
+      "email": "john@example.com"
+    }
   }
 }
